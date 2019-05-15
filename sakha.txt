@@ -1,0 +1,16 @@
+# AHYAT INJECT (Script TELKOMSEL)
+#
+# hostname
+# hostname:80
+# hostname:443
+
+#tsel
+#
+
+#Cebongcebi01.servehttp.com/cgi-bin/cgiproxy/np
+#ahyat.zxc.yt
+
+# 106.subnet118-98-95.astinet.telkom.net.id
+#
+
+ahyat.zxc.yt:443
